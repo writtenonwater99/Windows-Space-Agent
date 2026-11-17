@@ -2,6 +2,8 @@
 
 Find large files worth reviewing when a Windows drive needs a specific amount of free space. Returns local JSON and measures the remaining gap in bytes.
 
+Feel free to test locally on a small folder you choose. The report shows available space and candidates for review without deleting files.
+
 ## For AI agents
 
 Start with [AGENTS.md](AGENTS.md). Run the scripts as the signed-in user in Windows PowerShell 5.1. Keep reports local unless the owner chooses to share them.
